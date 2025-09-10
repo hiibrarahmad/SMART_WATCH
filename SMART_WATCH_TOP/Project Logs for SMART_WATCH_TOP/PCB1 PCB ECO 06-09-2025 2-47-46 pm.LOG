@@ -1,0 +1,24 @@
+Change Component Comment : Designator=SW2 Old Comment=SW-SMD_MST-12D18G4-SPDT-SLIDE-SWITCH New Comment=MST-12D18G4 SPDT Slide Switch
+Change component parameters: Designator = "SW2" ("SW2"); Footprint = "SW-SMD_MST-12D18G4-SPDT-SLIDE-SWITCH"; UniqueID = "\BVUBOVHO" ("\BVUBOVHO")
+Change component parameters (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/MST-12D18G4%2520SPDT%2520Slide%2520Switch/51384142.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device"; Value = "MST-12D18G4 SPDT Slide Switch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Name"; Value = "???? ????"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "SHOU HAN(??)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part"; Value = "MST-12D18G4 SPDT Slide Switch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Footprint"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part"; Value = "C49023767"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "MST-12D18G4 SPDT SLIDE SWITCH"; VariantName = "[No Variations]"
+Added Class: Name=N000-4_[0..1]
+Added Class: Name=N000-5_[0..1]
+Added Class: Name=N000-6_[0..6]
+Added Class: Name=N000-7_[0..2]
+Added Class: Name=N000-8_[0..15]
+Added Class: Name=N000-9_[0..1]
+Added Class: Name=N000-10_[0..5]
+Added Class: Name=N000-11_[0..5]
+Added Class: Name=N000-12_[0..2]
+Added Member To Class: ClassName=PWR Member=Component SW2 MST-12D18G4 SPDT Slide Switch

@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=U0TXD Pin=R11-1
+Removed Pin From Net: NetName=NetR11_2 Pin=R11-2
+Change Component Designator: OldDesignator=R? NewDesignator=R10
+Added Component: Designator=R11(RESC1005X40X20LL05T10)
+Add component (AddParameter): Name = "JLCPCB Part #"; Value = "C137970"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR.Part #"; Value = "RC0402FR-07499RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0402FR-07499RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "resistance"; Value = "499"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=U0TXD Pin=R11-1
+Added Pin To Net: NetName=NetR11_2 Pin=R11-2
+Change Net Name : Old Net Name=NetR?_2 New Net Name=NetR10_2

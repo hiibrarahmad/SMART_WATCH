@@ -1,0 +1,43 @@
+Added Component: Designator=U9(REG_NCP114AMX330TCG)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/NCP114AMX330TCG/Onsemi/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "NCP114AMX330TCG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "UDFN-4 ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/NCP114AMX330TCG/Onsemi/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U10(REG_NCP114AMX330TCG)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/NCP114AMX330TCG/Onsemi/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "NCP114AMX330TCG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "UDFN-4 ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/NCP114AMX330TCG/Onsemi/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U11(REG_NCP114AMX330TCG)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/NCP114AMX330TCG/Onsemi/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "NCP114AMX330TCG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "UDFN-4 ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/NCP114AMX330TCG/Onsemi/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3v3NRF Pin=U9-1
+Added Pin To Net: NetName=GND Pin=U9-2
+Added Pin To Net: NetName=Vbat Pin=U9-3
+Added Pin To Net: NetName=Vbat Pin=U9-4
+Added Pin To Net: NetName=GND Pin=U9-5
+Added Pin To Net: NetName=3v3GE Pin=U10-1
+Added Pin To Net: NetName=GND Pin=U10-2
+Added Pin To Net: NetName=Vbat Pin=U10-3
+Added Pin To Net: NetName=Vbat Pin=U10-4
+Added Pin To Net: NetName=GND Pin=U10-5
+Added Pin To Net: NetName=3v3MPU Pin=U11-1
+Added Pin To Net: NetName=GND Pin=U11-2
+Added Pin To Net: NetName=Vbat Pin=U11-3
+Added Pin To Net: NetName=Vbat Pin=U11-4
+Added Pin To Net: NetName=GND Pin=U11-5
+Added Class: Name=N000-10_[0..1]
+Added Class: Name=N000-11_[0..5]
+Added Class: Name=N000-12_[0..2]
+Added Class: Name=N000-13_[0..15]
+Added Member To Class: ClassName=NRF24L01 Member=Component U9 NCP114AMX330TCG
+Added Member To Class: ClassName=GPIO_Expander Member=Component U10 NCP114AMX330TCG
+Added Member To Class: ClassName=MPU_6050 Member=Component U11 NCP114AMX330TCG

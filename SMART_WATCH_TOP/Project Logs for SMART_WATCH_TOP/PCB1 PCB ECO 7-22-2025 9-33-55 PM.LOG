@@ -1,0 +1,21 @@
+Added Component: Designator=LCD(ZJY096T-IF09)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "STORE LINK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.aliexpress.com/item/1005008782073822.html?channel=twinner"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part #"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "https://www.aliexpress.com/item/1005008782073822.html?channel=twinner"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR.Part #"; Value = "ZJY096T-IF09"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3v3 Pin=LCD-1
+Added Pin To Net: NetName=GND Pin=LCD-2
+Added Pin To Net: NetName=3v3 Pin=LCD-7
+Added Pin To Net: NetName=GND Pin=LCD-S2
+Added Pin To Net: NetName=CS_LCD Pin=LCD-8
+Added Net: Name=CS_LCD
+Added Pin To Net: NetName=MOSI_LCD Pin=LCD-5
+Added Net: Name=MOSI_LCD
+Added Pin To Net: NetName=RESET Pin=LCD-3
+Added Net: Name=RESET
+Added Pin To Net: NetName=RS\ Pin=LCD-4
+Added Net: Name=RS\
+Added Pin To Net: NetName=SCLK_LCD Pin=LCD-6
+Added Net: Name=SCLK_LCD
+Added Member To Class: ClassName=LCD Member=Component LCD ZJY096T-IF09

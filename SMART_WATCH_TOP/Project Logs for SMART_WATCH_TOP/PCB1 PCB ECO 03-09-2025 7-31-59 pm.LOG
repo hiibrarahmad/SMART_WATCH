@@ -1,0 +1,52 @@
+Removed Pin From Net: NetName=V_SUB Pin=J2-1
+Removed Pin From Net: NetName=GND Pin=J2-5
+Removed Pin From Net: NetName=SHIELD Pin=J2-6
+Removed Pin From Net: NetName=SHIELD Pin=J2-7
+Removed Pin From Net: NetName=SHIELD Pin=J2-8
+Removed Pin From Net: NetName=SHIELD Pin=J2-9
+Removed Pin From Net: NetName=SHIELD Pin=J2-10
+Removed Pin From Net: NetName=SHIELD Pin=J2-11
+Added Component: Designator=J2(FP-USB4125-GF-A-0190-MFG)
+Added Component: Designator=R22(RES 0402_1005)
+Add component (AddParameter): Name = "Part Number"; Value = "RR0510P-152-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5.1 kOhms"; VariantName = "[No Variations]"
+Added Component: Designator=R23(RES 0402_1005)
+Add component (AddParameter): Name = "Part Number"; Value = "RR0510P-152-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5.1 kOhms"; VariantName = "[No Variations]"
+Added Component: Designator=R24(YAGEO RES 0402_1005)
+Add component (AddParameter): Name = "Part Number"; Value = "RC0402FR-071K1L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.1 kOhms"; VariantName = "[No Variations]"
+Added Component: Designator=R25(YAGEO RES 0402_1005)
+Add component (AddParameter): Name = "Part Number"; Value = "RC0402FR-071K1L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "ohm"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found TSSOP-8_L3.0-W3.0-P0.65-LS4.0-BL
+Added Pin To Net: NetName=SHIELD Pin=J2-1
+Added Pin To Net: NetName=SHIELD Pin=J2-2
+Added Pin To Net: NetName=SHIELD Pin=J2-3
+Added Pin To Net: NetName=SHIELD Pin=J2-4
+Added Pin To Net: NetName=V_SUB Pin=J2-A9
+Added Pin To Net: NetName=GND Pin=J2-A12
+Added Pin To Net: NetName=V_SUB Pin=J2-B9
+Added Pin To Net: NetName=GND Pin=J2-B12
+Added Pin To Net: NetName=GND Pin=R22-2
+Added Pin To Net: NetName=GND Pin=R23-2
+Added Pin To Net: NetName=GND Pin=R24-1
+Added Pin To Net: NetName=GND Pin=R25-1
+Add Pin To Net: Unknown Pin: Pin U7-13
+Added Pin To Net: NetName=NetJ2_A5 Pin=J2-A5
+Added Pin To Net: NetName=NetJ2_A5 Pin=R22-1
+Added Net: Name=NetJ2_A5
+Added Pin To Net: NetName=NetJ2_B5 Pin=J2-B5
+Added Pin To Net: NetName=NetJ2_B5 Pin=R23-1
+Added Net: Name=NetJ2_B5
+Added Pin To Net: NetName=NetR24_2 Pin=R24-2
+Added Pin To Net: NetName=NetR24_2 Pin=U8-1
+Added Net: Name=NetR24_2
+Added Pin To Net: NetName=NetR25_2 Pin=R25-2
+Added Pin To Net: NetName=NetR25_2 Pin=U8-14
+Added Net: Name=NetR25_2
+Added Member To Class: ClassName=PWR Member=Component R22 5.1 kOhms
+Added Member To Class: ClassName=PWR Member=Component R23 5.1 kOhms
+Added Member To Class: ClassName=PWR Member=Component R24 1.1 kOhms
+Added Member To Class: ClassName=PWR Member=Component R25 ohm
+Add Class Member: Failed to add class member : Component U9 74LVC1G74DP,125

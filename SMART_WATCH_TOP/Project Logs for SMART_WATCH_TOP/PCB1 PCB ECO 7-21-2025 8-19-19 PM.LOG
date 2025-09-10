@@ -1,0 +1,12 @@
+Removed Member From Class: ClassName=mcu Member=C2
+Added Component: Designator=Y1(C5261125)
+Add component (AddParameter): Name = "MF"; Value = "Lucki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "C5261125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD2520-4P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC4_2 Pin=Y1-1
+Added Pin To Net: NetName=GND Pin=Y1-2
+Added Pin To Net: NetName=NetC3_2 Pin=Y1-3
+Added Pin To Net: NetName=GND Pin=Y1-4
+Added Member To Class: ClassName=mcu Member=Component C4 12 pF
+Added Member To Class: ClassName=mcu Member=Component Y1 L225S400L11L

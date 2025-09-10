@@ -1,0 +1,26 @@
+Change Component Comment : Designator= Old Comment=USON-8_L4.0-W3.0-P0.80-BL_WINBOND_UU New Comment=W25Q64JWUUIQ
+Change Component Designator: OldDesignator= NewDesignator=U3
+Change component parameters: Designator = "" ("U3"); Footprint = "USON-8_L4.0-W3.0-P0.80-BL_WINBOND_UU"; UniqueID = "\CKWFVPJV" ("\CKWFVPJV")
+Change component parameters (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Clock Frequency"; Value = "133MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Data Retention - TDR (Year)"; Value = "20 Years"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20210420/C2595075_E7A7725B7CF2DE50C07916BF10CAF3A1.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device"; Value = "W25Q64JWUUIQ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Interface"; Value = "SPI"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Name"; Value = "W25Q64JWUUIQ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Winbond(??)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part"; Value = "W25Q64JWUUIQ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Memory Size"; Value = "64Mbit"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Page Programming Time (Tpp)"; Value = "800us"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Program / Erase Cycles"; Value = "100,000 Cycles"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Footprint"; Value = "USON-8(3x4)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part"; Value = "C6604692"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "W25Q64JWUUIQ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage - Supply"; Value = "1.7V~1.95V"; VariantName = "[No Variations]"
+Added Class: Name=N000-1_[0..5]
+Added Class: Name=N000-2_[0..2]
+Added Member To Class: ClassName=mcu Member=Component U3 W25Q64JWUUIQ

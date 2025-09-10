@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NetC7_2 Pin=R10-1
+Removed Member From Class: ClassName=mcu Member=R10
+Added Pin To Net: NetName=NetC7_2 Pin=U1-54
+Added Class: Name=N000-12_[0..5]
+Added Class: Name=N000-13_[0..1]
+Added Member To Class: ClassName=mcu Member=Component U? NCP114AMX330TCG
+Added Member To Class: ClassName=mcu Member=Component U? NCP114AMX330TCG

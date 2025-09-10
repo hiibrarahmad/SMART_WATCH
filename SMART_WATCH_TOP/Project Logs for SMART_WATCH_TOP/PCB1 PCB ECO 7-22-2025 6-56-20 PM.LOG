@@ -1,0 +1,135 @@
+Removed Pin From Net: NetName=NetC6_1 Pin=L1-1
+Removed Pin From Net: NetName=NetANT1_1 Pin=L1-2
+Removed Member From Class: ClassName=mcu Member=L1
+Change Component Comment : Designator=C3 Old Comment=0.1 µF New Comment==Value
+Change Component Comment : Designator=C4 Old Comment=1 µF New Comment==Value
+Change Component Comment : Designator=C7 Old Comment=12 pF New Comment==Value
+Change Component Comment : Designator=C8 Old Comment=12 pF New Comment==Value
+Change Component Comment : Designator=C9 Old Comment=12 pF New Comment==Value
+Change Component Comment : Designator=C10 Old Comment=12 pF New Comment==Value
+Change Component Comment : Designator=C5 Old Comment=15 pF New Comment==Value
+Change Component Comment : Designator=C6 Old Comment=15 pF New Comment==Value
+Change component parameters: Designator = "ANT1" ("ANT1"); Footprint = "FP-2450AT18D0100E-MFG"; UniqueID = "\KJMZHTGV" ("\KJMZHTGV")
+Change component parameters (AddParameter): Name = "Bandwidth"; Value = "100MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Frequency"; Value = "2.45GHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gain"; Value = "-1dB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.047inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance"; Value = "50R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part #"; Value = "C2917718"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "3.2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Johanson Dielectrics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Power Dissipation"; Value = "2W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR.Part #"; Value = "2450AT18D0100E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Bands"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "3000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "2W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Return Loss"; Value = "-10dB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "1.6mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "B1" ("B1"); Footprint = "SOIC127P790X216-8N"; UniqueID = "\BKBOUZZE" ("\BKBOUZZE")
+Change component parameters (AddParameter): Name = "JLCPCB Part #"; Value = "C2613930"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Winbond Elec"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Winbond"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "W25Q128JVSIM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR.Part #"; Value = "W25Q128JVSIM"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3" ("C3"); Footprint = "CAP 0402_1005"; UniqueID = "\MTGPSPAY" ("\MTGPSPAY")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "0.1 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Package"; Value = "0402 (1005 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part #"; Value = "C60474"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR.Part #"; Value = "CC0402KRX7R7BB104"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size / Dimension"; Value = "0.039" L x 0.020" W (1.00mm x 0.50mm)"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4" ("C4"); Footprint = "CAP 0402_1005"; UniqueID = "\OQLWAERS" ("\OQLWAERS")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "1 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Package"; Value = "0402 (1005 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part #"; Value = "C14445"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR.Part #"; Value = "CL05A105KP5NNNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CL05A105KP5NNNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size / Dimension"; Value = "0.039" L x 0.020" W (1.00mm x 0.50mm)"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5" ("C5"); Footprint = "CAP 0402_1005"; UniqueID = "\LICCOUVK" ("\LICCOUVK")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "15 pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Package"; Value = "0402 (1005 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part #"; Value = "C1548"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "FH (Guangdong Fenghua Advanced Tech)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR.Part #"; Value = "0402CG150J500NT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "Surface Mount, MLCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "0402CG150J500NT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size / Dimension"; Value = "0.040" L x 0.020" W (1.02mm x 0.51mm)"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6" ("C6"); Footprint = "CAP 0402_1005"; UniqueID = "\YUGCDQQE" ("\YUGCDQQE")
+Change component parameters (AddParameter): Name = "Applications"; Value = "RF, Microwave, High Frequency"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "15 pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Package"; Value = "0402 (1005 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part #"; Value = "C1548"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "FH (Guangdong Fenghua Advanced Tech)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR.Part #"; Value = "0402CG150J500NT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "Surface Mount, MLCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "0402CG150J500NT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size / Dimension"; Value = "0.040" L x 0.020" W (1.02mm x 0.51mm)"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C7" ("C7"); Footprint = "CAP 0402_1005"; UniqueID = "\EPQDHTUA" ("\EPQDHTUA")
+Change component parameters (AddParameter): Name = "Applications"; Value = "RF, Microwave, High Frequency"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "12 pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Package"; Value = "0402 (1005 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part #"; Value = "C1547"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "FH (Guangdong Fenghua Advanced Tech)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR.Part #"; Value = "0402CG120J500NT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "Surface Mount, MLCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "0402CG120J500NT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size / Dimension"; Value = "0.040" L x 0.020" W (1.02mm x 0.51mm)"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C8" ("C8"); Footprint = "CAP 0402_1005"; UniqueID = "\DOPNYMMR" ("\DOPNYMMR")
+Change component parameters (AddParameter): Name = "Applications"; Value = "RF, Microwave, High Frequency"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "12 pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Package"; Value = "0402 (1005 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part #"; Value = "C1547"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "FH (Guangdong Fenghua Advanced Tech)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR.Part #"; Value = "0402CG120J500NT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "Surface Mount, MLCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "0402CG120J500NT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size / Dimension"; Value = "0.040" L x 0.020" W (1.02mm x 0.51mm)"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C9" ("C9"); Footprint = "CAP 0402_1005"; UniqueID = "\OVHUMQSF" ("\OVHUMQSF")
+Change component parameters (AddParameter): Name = "Applications"; Value = "RF, Microwave, High Frequency"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "12 pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Package"; Value = "0402 (1005 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part #"; Value = "C1547"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "FH (Guangdong Fenghua Advanced Tech)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR.Part #"; Value = "0402CG120J500NT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "Surface Mount, MLCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "0402CG120J500NT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size / Dimension"; Value = "0.040" L x 0.020" W (1.02mm x 0.51mm)"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C10" ("C10"); Footprint = "CAP 0402_1005"; UniqueID = "\OGOXATEE" ("\OGOXATEE")
+Change component parameters (AddParameter): Name = "Applications"; Value = "RF, Microwave, High Frequency"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "12 pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Package"; Value = "0402 (1005 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part #"; Value = "C1547"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "FH (Guangdong Fenghua Advanced Tech)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR.Part #"; Value = "0402CG120J500NT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "Surface Mount, MLCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "0402CG120J500NT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size / Dimension"; Value = "0.040" L x 0.020" W (1.02mm x 0.51mm)"; VariantName = "[No Variations]"
+Change component parameters: Designator = "X1" ("X1"); Footprint = "FC-135R_L3.2-W1.5"; UniqueID = "\PBBUORNJ" ("\PBBUORNJ")
+Change component parameters (AddParameter): Name = "JLCPCB Part #"; Value = "C32346"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Seiko Epson"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR.Part #"; Value = "Q13FC13500004"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "32.768kHz"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Y1" ("Y1"); Footprint = "C5261125"; UniqueID = "\MGCBAZPN" ("\MGCBAZPN")
+Change component parameters (AddParameter): Name = "JLCPCB Part #"; Value = "C5261125"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Lucki"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR.Part #"; Value = "L225S400L11L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SMD2520-4P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "40MHz"; VariantName = "[No Variations]"
+Added Component: Designator=L?(Murata LQG15 0402)
+Add component (AddParameter): Name = "JLCPCB Part #"; Value = "C13595"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Sunlord"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR.Part #"; Value = "SDCL1005C4N7STDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value"; Value = "4.7NH"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetANT1_1 Pin=L?-1
+Added Pin To Net: NetName=NetC6_1 Pin=L?-2
+Added Member To Class: ClassName=mcu Member=Component L? 4.7NH

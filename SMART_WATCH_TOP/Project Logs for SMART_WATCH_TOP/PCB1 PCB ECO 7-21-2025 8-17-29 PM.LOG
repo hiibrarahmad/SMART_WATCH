@@ -1,0 +1,50 @@
+Removed Member From Class: ClassName=LCD Member=C?
+Removed Member From Class: ClassName=mcu Member=Y?
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=C? NewDesignator=C4
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Change Component Designator: OldDesignator=LCD? NewDesignator=LCD1
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Added Component: Designator=B1(SOIC127P790X216-8N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "W25Q128JVSIM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/w25q128jvsim/winbond-electronics?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.winbond.com/hq/search-resource-file.jsp?partNo=W25Q128JVSIM&type=datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "2.16mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Winbond"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "W25Q128JVSIM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "454-W25Q128JVSIM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Winbond/W25Q128JVSIM?qs=qSfuJ%252Bfl%2Fd6d7A5WLggp6w%3D%3D"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found XTAL_ECS-400-10-37B2-CKM-TR
+Add Pin To Net: Unknown Pin: Pin Y1-2
+Add Pin To Net: Unknown Pin: Pin Y1-4
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=U1-54
+Added Net: Name=NetC3_2
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC4_2 Pin=U1-53
+Added Net: Name=NetC4_2
+Added Pin To Net: NetName=SPICS0 Pin=B1-1
+Added Pin To Net: NetName=SPICS0 Pin=U1-32
+Added Net: Name=SPICS0
+Added Pin To Net: NetName=SPID Pin=B1-5
+Added Pin To Net: NetName=SPID Pin=U1-35
+Added Net: Name=SPID
+Added Pin To Net: NetName=SPIHD Pin=B1-7
+Added Pin To Net: NetName=SPIHD Pin=U1-30
+Added Net: Name=SPIHD
+Added Pin To Net: NetName=SPIQ Pin=B1-2
+Added Pin To Net: NetName=SPIQ Pin=U1-34
+Added Net: Name=SPIQ
+Added Pin To Net: NetName=SPISCK Pin=B1-6
+Added Pin To Net: NetName=SPISCK Pin=U1-33
+Added Net: Name=SPISCK
+Added Pin To Net: NetName=SPIWP Pin=B1-3
+Added Pin To Net: NetName=SPIWP Pin=U1-31
+Added Net: Name=SPIWP
+Added Member To Class: ClassName=mcu Member=Component B1 W25Q128JVSIM
+Added Member To Class: ClassName=LCD Member=Component C1 10µF
+Added Member To Class: ClassName=LCD Member=Component C2 0.1 µF
+Added Member To Class: ClassName=mcu Member=Component C3 12 pF
+Add Class Member: Failed to add class member : Component Y1 L225S400L11L

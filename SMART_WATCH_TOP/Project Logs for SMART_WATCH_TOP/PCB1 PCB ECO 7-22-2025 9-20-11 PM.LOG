@@ -1,0 +1,68 @@
+Removed Pin From Net: NetName=MOSI_LCD Pin=LCD1-3
+Removed Pin From Net: NetName=SCLK_LCD Pin=LCD1-4
+Removed Pin From Net: NetName=RS\ Pin=LCD1-5
+Removed Pin From Net: NetName=CS_LCD Pin=LCD1-7
+Removed Pin From Net: NetName=GND Pin=LCD1-8
+Removed Pin From Net: NetName=3v3 Pin=LCD1-10
+Removed Pin From Net: NetName=GND Pin=LCD1-11
+Removed Pin From Net: NetName=3v3 Pin=LCD1-12
+Removed Pin From Net: NetName=GND Pin=LCD1-13
+Removed Member From Class: ClassName=LCD Member=LCD1
+Change Component Designator: OldDesignator=L? NewDesignator=L1
+Add Component: Footprint Not Found ZJY096T-IF09
+Added Component: Designator=L2(Murata LQG15 0402)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://search.murata.co.jp/Ceramy/image/img/P02/JELF243B-9101.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/murata-electronics/LQG15HH10NG02D/13904821"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating (Amps)"; Value = "500 mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Resistance (DCR)"; Value = "260mOhm Max"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "0402 (1005 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency - Self Resonant"; Value = "3.4GHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "0.022" (0.55mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Inductance"; Value = "10 nH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Inductance Frequency - Test"; Value = "100 MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LastUpdated"; Value = "7/19/2024 11:59:47 PM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material - Core"; Value = "Air"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0402 (1005 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "LQG15HH10NG02D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "2489"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.07"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Q @ Freq"; Value = "8 @ 100MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "LQG15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shielding"; Value = "Unshielded"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.039" L x 0.020" W (1.00mm x 0.50mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "0402 (1005 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-LQG15HH10NG02DCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±2%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Multilayer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10 nH"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin J1-1
+Add Pin To Net: Unknown Pin: Pin J1-2
+Add Pin To Net: Unknown Pin: Pin J1-4
+Add Pin To Net: Unknown Pin: Pin J1-5
+Add Pin To Net: Unknown Pin: Pin J1-6
+Add Pin To Net: Unknown Pin: Pin J1-7
+Add Pin To Net: Unknown Pin: Pin J1-8
+Add Pin To Net: Unknown Pin: Pin J1-S2
+Added Net: Name=RESET
+Added Pin To Net: NetName=SCL Pin=U1-23
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=U1-24
+Added Net: Name=SDA
+Added Pin To Net: NetName=USB_DN Pin=U1-25
+Added Net: Name=USB_DN
+Added Pin To Net: NetName=USB_DP Pin=U1-26
+Added Net: Name=USB_DP
+Added Class: Name=N000-1_[0..2]
+Added Class: Name=N000-2_[0..5]
+Added Member To Class: ClassName=mcu Member=Component L2 10 nH

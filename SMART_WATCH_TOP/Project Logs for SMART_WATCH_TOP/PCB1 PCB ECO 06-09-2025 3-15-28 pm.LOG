@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=3v3 Pin=FPC2-1
+Added Pin To Net: NetName=Vbat Pin=FPC2-1
+Added Member To Class: ClassName=PWR Member=Component D2 MSL0402RGBU1
+Added Member To Class: ClassName=PWR Member=Component U9 74LVC1G74DP,125

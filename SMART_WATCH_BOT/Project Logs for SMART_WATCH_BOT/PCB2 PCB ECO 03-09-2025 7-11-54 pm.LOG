@@ -1,0 +1,28 @@
+Add Component: Footprint Not Found SOT95P280X145-5N
+Add Component: Footprint Not Found QFN50P400X400X95-24N
+Add Component: Footprint Not Found TSSOP-8_L3.0-W3.0-P0.65-LS4.0-BL
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-5
+Add Pin To Net: Unknown Pin: Pin U5-18
+Add Pin To Net: Unknown Pin: Pin U5-23
+Add Pin To Net: Unknown Pin: Pin U5-24
+Add Net: Net with name "3v3" already exists
+Add Net: Net with name "3v3" already exists
+Add Net: Net with name "3v3" already exists
+Add Net: Net with name "3v3" already exists
+Add Net: Net with name "DW_EXTON" already exists
+Add Net: Net with name "DW_MOSI" already exists
+Add Net: Net with name "DW_RST" already exists
+Add Net: Net with name "DW_SPI_CLK" already exists
+Add Net: Net with name "DW_SPI_CS" already exists
+Add Net: Net with name "DW_WAKEUP" already exists
+Add Net: Net with name "GND" already exists
+Add Net: Net with name "MAXS_SCL" already exists
+Add Net: Net with name "MAXS_SDA" already exists
+Add Net: Net with name "TEMP" already exists
+Added Class: Name=N000-1_[0..2]
+Added Class: Name=N000-2_[0..1]
+Add Class Member: Failed to add class member : Component U1 TPS70950DBVR
+Add Class Member: Failed to add class member : Component U5 MPU-6050
+Add Class Member: Failed to add class member : Component U7 74LVC1G74DP,125

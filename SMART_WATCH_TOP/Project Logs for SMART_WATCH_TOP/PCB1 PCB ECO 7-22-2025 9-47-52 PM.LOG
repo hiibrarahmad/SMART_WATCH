@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=3v3 Pin=LCD-1
+Added Component: Designator=MD?(FP-DWM3000TR13-MFG)
+Change Net Name : Old Net Name=RESET New Net Name=RESET_LCD
+Change Net Name : Old Net Name=RS\ New Net Name=RS_LCD
+Added Pin To Net: NetName=ON/OFF_LCD Pin=LCD-1
+Added Net: Name=ON/OFF_LCD
+Added Class: Name=POWER

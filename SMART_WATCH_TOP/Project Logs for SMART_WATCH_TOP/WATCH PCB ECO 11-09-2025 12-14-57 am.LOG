@@ -1,0 +1,73 @@
+Removed Pin From Net: NetName=3v3 Pin=C1-2
+Removed Pin From Net: NetName=3v3 Pin=C2-2
+Removed Pin From Net: NetName=3v3 Pin=C18-2
+Removed Pin From Net: NetName=3v3 Pin=C19-2
+Removed Pin From Net: NetName=3v3 Pin=C20-2
+Removed Pin From Net: NetName=3v3 Pin=FPC1-7
+Removed Pin From Net: NetName=3v3 Pin=L2-2
+Removed Pin From Net: NetName=3v3 Pin=R2-2
+Removed Pin From Net: NetName=3v3 Pin=R3-2
+Removed Pin From Net: NetName=3v3 Pin=R14-2
+Removed Pin From Net: NetName=3v3 Pin=R15-2
+Removed Pin From Net: NetName=3v3 Pin=U4-7
+Removed Pin From Net: NetName=3v3 Pin=U4-15
+Removed Pin From Net: NetName=3v3 Pin=U4-18
+Removed Pin From Net: NetName=3v3 Pin=U6-13
+Removed Pin From Net: NetName=3v3 Pin=U?-1
+Removed Pin From Net: NetName=3v3 Pin=U?-1
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=GND Pin=U?-2
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=Vbat Pin=U?-3
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=Vbat Pin=U?-4
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=GND Pin=U?-5
+Remove Pin from Net: Failed to remove Pin
+Change Component Designator: OldDesignator=U? NewDesignator=U5
+Add Component: Footprint Not Found REG_NCP114AMX330TCG
+Add Component: Footprint Not Found REG_NCP114AMX330TCG
+Add Component: Footprint Not Found REG_NCP114AMX330TCG
+Added Pin To Net: NetName=VDD Pin=C18-2
+Added Pin To Net: NetName=VDD Pin=C19-2
+Added Pin To Net: NetName=VDD Pin=C20-2
+Added Pin To Net: NetName=VDD Pin=L2-2
+Added Pin To Net: NetName=VDD Pin=R2-2
+Added Pin To Net: NetName=VDD Pin=R3-2
+Added Pin To Net: NetName=VDD Pin=U5-1
+Add Pin To Net: Unknown Pin: Pin U9-2
+Add Pin To Net: Unknown Pin: Pin U9-3
+Add Pin To Net: Unknown Pin: Pin U9-4
+Add Pin To Net: Unknown Pin: Pin U9-5
+Add Pin To Net: Unknown Pin: Pin U10-1
+Add Pin To Net: Unknown Pin: Pin U10-2
+Add Pin To Net: Unknown Pin: Pin U10-3
+Add Pin To Net: Unknown Pin: Pin U10-4
+Add Pin To Net: Unknown Pin: Pin U10-5
+Add Pin To Net: Unknown Pin: Pin U11-2
+Add Pin To Net: Unknown Pin: Pin U11-3
+Add Pin To Net: Unknown Pin: Pin U11-4
+Add Pin To Net: Unknown Pin: Pin U11-5
+Change Net Name : Old Net Name=3v3 New Net Name=3v3GE
+Change Net Name : Old Net Name=VDD New Net Name=3v3MCU
+Added Pin To Net: NetName=3v3MPU Pin=R14-2
+Added Pin To Net: NetName=3v3MPU Pin=R15-2
+Added Pin To Net: NetName=3v3MPU Pin=U6-13
+Added Net: Name=3v3MPU
+Added Pin To Net: NetName=3v3NRF Pin=U4-7
+Added Pin To Net: NetName=3v3NRF Pin=U4-15
+Added Pin To Net: NetName=3v3NRF Pin=U4-18
+Added Net: Name=3v3NRF
+Added Pin To Net: NetName=3v3 Pin=C1-2
+Added Pin To Net: NetName=3v3 Pin=C2-2
+Added Pin To Net: NetName=3v3 Pin=FPC1-7
+Added Net: Name=3v3
+Added Class: Name=N000-1_[0..2]
+Added Class: Name=N000-2_[0..5]
+Added Class: Name=N000-5_[0..2]
+Added Class: Name=N000-9_[0..6]
+Added Class: Name=N000-12_[0..1]
+Added Class: Name=N000-13_[0..5]
+Add Class Member: Failed to add class member : Component U9 NCP114AMX330TCG
+Add Class Member: Failed to add class member : Component U10 NCP114AMX330TCG
+Add Class Member: Failed to add class member : Component U11 NCP114AMX330TCG

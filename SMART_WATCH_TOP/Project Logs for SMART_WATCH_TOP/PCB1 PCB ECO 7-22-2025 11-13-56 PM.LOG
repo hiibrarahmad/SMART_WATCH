@@ -1,0 +1,4 @@
+Added Component: Designator=U?(FP-NRF24L01-IPC_C)
+Added Pin To Net: NetName=GND Pin=U3-9
+Added Pin To Net: NetName=GND Pin=U3-10
+Added Class: Name=NRF24L01

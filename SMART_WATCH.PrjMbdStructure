@@ -1,0 +1,4 @@
+Record=DiagramHierarchy|SourceDocument=MultiBoardSchematic1.MbsDoc|Kind=Multi-board Schematic Module|Designator=2|Source=SMART_WATCH_BOT\SMART_WATCH_BOT.PrjPcb
+Record=SubProject|SourceDocument=MultiBoardSchematic1.MbsDoc|ProjectPath=SMART_WATCH_BOT\SMART_WATCH_BOT.PrjPcb
+Record=DiagramHierarchy|SourceDocument=MultiBoardSchematic1.MbsDoc|Kind=Multi-board Schematic Module|Designator=TOP|Source=SMART_WATCH_TOP\SMART_WATCH_TOP.PrjPcb
+Record=SubProject|SourceDocument=MultiBoardSchematic1.MbsDoc|ProjectPath=SMART_WATCH_TOP\SMART_WATCH_TOP.PrjPcb

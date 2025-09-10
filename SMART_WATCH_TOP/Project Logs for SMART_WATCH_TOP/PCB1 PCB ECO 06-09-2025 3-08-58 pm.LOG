@@ -1,0 +1,40 @@
+Added Component: Designator=D2(FP-MSL0402-MFG)
+Added Component: Designator=R22(RES 0402_1005)
+Add component (AddParameter): Name = "Part Number"; Value = "RR0510P-152-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.5 kOhms"; VariantName = "[No Variations]"
+Added Component: Designator=U9(TSSOP-8_L3.0-W3.0-P0.65-LS4.0-BL)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Clock Frequency"; Value = "200MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Output High(IOH)"; Value = "32mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Output Low(IOL)"; Value = "32mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/74LVC1G74DP%252C125/462699.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "74LVC1G74DP,125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Function"; Value = "Set and Reset"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Capacitance"; Value = "4pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "74LVC1G74DP,125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nexperia(??)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "74LVC1G74DP,125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "Complementary Type"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Propagation Delay"; Value = "4.1ns@5V,50pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quiescent Current"; Value = "40uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "74LVCSeries"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "TSSOP-8-3.0mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C458768"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "74LVC1G74DP,125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Trigger Type"; Value = "Rising Edge"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "D-Type"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Supply"; Value = "1.65V~5.5V"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin D2-1
+Add Pin To Net: Unknown Pin: Pin D2-2
+Add Pin To Net: Unknown Pin: Pin D2-3
+Add Pin To Net: Unknown Pin: Pin D2-4
+Add Pin To Net: Unknown Pin: Pin D2-6
+Added Pin To Net: NetName=Vbat Pin=R22-1
+Added Pin To Net: NetName=NetD2_5 Pin=R22-2
+Added Net: Name=NetD2_5
+Add Class Member: Failed to add class member : Component D2 MSL0402RGBU1
+Added Member To Class: ClassName=PWR Member=Component R22 470ohm
+Added Member To Class: ClassName=PWR Member=Component U9 74LVC1G74DP,125

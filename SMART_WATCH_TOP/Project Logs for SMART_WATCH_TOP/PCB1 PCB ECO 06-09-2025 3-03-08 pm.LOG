@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=NetD2_1 Pin=D2-1
+Removed Pin From Net: NetName=NetD2_3 Pin=D2-3
+Removed Pin From Net: NetName=OUT Pin=D2-4
+Removed Pin From Net: NetName=OUT Pin=D2-6
+Removed Member From Class: ClassName=PWR Member=U9
+Added Component: Designator=D2(FP-MSL0402-MFG)
+Add Pin To Net: Unknown Pin: Pin D2-1
+Add Pin To Net: Unknown Pin: Pin D2-3
+Add Pin To Net: Unknown Pin: Pin D2-4
+Add Pin To Net: Unknown Pin: Pin D2-6
+Added Pin To Net: NetName=OUT Pin=SW2-2
+Added Pin To Net: NetName=Vbat Pin=P6-1
+Added Pin To Net: NetName=Vbat Pin=SW2-3
+Added Pin To Net: NetName=Vbat Pin=U5-3
+Added Net: Name=Vbat
+Added Class: Name=BUTT[0..5]
+Added Class: Name=BUZZER[0..2]
+Added Class: Name=DW[0..6]
+Added Class: Name=GPIO_EXP_I2C[0..2]
+Added Class: Name=GPIO_EXP_IO[0..15]
+Added Class: Name=LCD[0..5]
+Added Class: Name=MAXS[0..1]
+Added Class: Name=MPU[0..1]
+Added Class: Name=N000-2_[0..1]
+Added Class: Name=N000-3_[0..5]
+Added Class: Name=N000-4_[0..5]
+Added Class: Name=N000-5_[0..5]
+Added Class: Name=N000-6_[0..2]
+Added Class: Name=N000-7_[0..1]
+Added Class: Name=N000-8_[0..1]
+Added Class: Name=N000-9_[0..2]
+Added Class: Name=N000-11_[0..15]
+Added Class: Name=N000-12_[0..6]
+Added Class: Name=NRF[0..5]
+Added Class: Name=POWER[0..2]
+Added Class: Name=TEMP[0..1]

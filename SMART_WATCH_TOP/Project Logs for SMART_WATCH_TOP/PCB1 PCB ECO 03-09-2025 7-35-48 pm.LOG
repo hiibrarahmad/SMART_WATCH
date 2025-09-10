@@ -1,0 +1,30 @@
+Change Component Comment : Designator=U9 Old Comment=TSSOP-8_L3.0-W3.0-P0.65-LS4.0-BL New Comment=74LVC1G74DP,125
+Change component parameters: Designator = "U9" ("U9"); Footprint = "TSSOP-8_L3.0-W3.0-P0.65-LS4.0-BL"; UniqueID = "\RPBUVKFW" ("\RPBUVKFW")
+Change component parameters (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Clock Frequency"; Value = "200MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current - Output High(IOH)"; Value = "32mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current - Output Low(IOL)"; Value = "32mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/74LVC1G74DP%252C125/462699.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device"; Value = "74LVC1G74DP,125"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Function"; Value = "Set and Reset"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Input Capacitance"; Value = "4pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Name"; Value = "74LVC1G74DP,125"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Nexperia(??)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part"; Value = "74LVC1G74DP,125"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Type"; Value = "Complementary Type"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Propagation Delay"; Value = "4.1ns@5V,50pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Quiescent Current"; Value = "40uA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "74LVCSeries"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Footprint"; Value = "TSSOP-8-3.0mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part"; Value = "C458768"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "74LVC1G74DP,125"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Trigger Type"; Value = "Rising Edge"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "D-Type"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage - Supply"; Value = "1.65V~5.5V"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin U7-13
+Added Member To Class: ClassName=PWR Member=Component J2 USB4125-GF-A-0190
+Added Member To Class: ClassName=PWR Member=Component U7 BQ27441DRZR-G1A
+Added Member To Class: ClassName=PWR Member=Component U9 74LVC1G74DP,125

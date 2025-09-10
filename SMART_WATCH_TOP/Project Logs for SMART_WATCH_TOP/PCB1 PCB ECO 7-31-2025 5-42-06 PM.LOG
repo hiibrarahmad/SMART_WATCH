@@ -1,0 +1,198 @@
+Change Component Comment : Designator=FPC1 Old Comment=FPC-SMD_AFC04-S08ECA-00 New Comment=AFC04-S08ECA-00
+Change component parameters: Designator = "FPC1" ("FPC1"); Footprint = "FPC-SMD_AFC04-S08ECA-00"; UniqueID = "\SZKFKXXU" ("\SZKFKXXU")
+Change component parameters (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Type"; Value = "Contact,Top"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20201020/C883635_E94301B494140F0FE9C86E243B1AABF7.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device"; Value = "AFC04-S08ECA-00"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "FFC, FCB Thickness"; Value = "0.3mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height Above Board"; Value = "1.2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Name"; Value = "??:0.5mm P?:8P ??? ??"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Locking Feature"; Value = "???"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "JS(????)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part"; Value = "AFC04-S08ECA-00"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "??"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Contacts"; Value = "8P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Range"; Value = "-25?~+85?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "0.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Footprint"; Value = "SMD,P=0.5mm,??"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part"; Value = "C883637"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "AFC04-S08ECA-00"; VariantName = "[No Variations]"
+Added Component: Designator=C26(CAP 0402_1005)
+Add component (AddParameter): Name = "Capacitance"; Value = "2.2nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "0402 (1005 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part #"; Value = "C14445"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR.Part #"; Value = "CL05A105KP5NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CL05A105KP5NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.039" L x 0.020" W (1.00mm x 0.50mm)"; VariantName = "[No Variations]"
+Added Component: Designator=C27(CAP 0402_1005)
+Add component (AddParameter): Name = "Capacitance"; Value = "0.1 µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "0402 (1005 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part #"; Value = "C60474"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR.Part #"; Value = "CC0402KRX7R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.039" L x 0.020" W (1.00mm x 0.50mm)"; VariantName = "[No Variations]"
+Added Component: Designator=C28(CAP 0402_1005)
+Add component (AddParameter): Name = "Capacitance"; Value = "10 µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "0402 (1005 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part #"; Value = "C15525"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR.Part #"; Value = "CL05A106MQ5NUNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CL05A105KP5NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.039" L x 0.020" W (1.00mm x 0.50mm)"; VariantName = "[No Variations]"
+Added Component: Designator=C29(CAP 0402_1005)
+Add component (AddParameter): Name = "Capacitance"; Value = "1 µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "0402 (1005 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part #"; Value = "C14445"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR.Part #"; Value = "CL05A105KP5NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CL05A105KP5NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.039" L x 0.020" W (1.00mm x 0.50mm)"; VariantName = "[No Variations]"
+Added Component: Designator=LCD(ZJY096T-IF09)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "STORE LINK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.aliexpress.com/item/1005008782073822.html?channel=twinner"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part #"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "https://www.aliexpress.com/item/1005008782073822.html?channel=twinner"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR.Part #"; Value = "ZJY096T-IF09"; VariantName = "[No Variations]"
+Added Component: Designator=R14(RES 0402_1005)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.vishay.com/docs/28779/tnpue3.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/vishay-dale/TNPU040210K0BZEP00/10668512"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Thin Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "0402 (1005 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Anti-Sulfur, Automotive AEC-Q200, Moisture Resistant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "0.016" (0.40mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LastUpdated"; Value = "2/9/2024 8:29:39 PM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0402 (1005 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "TNPU040210K0BZEP00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "49938"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "0.063W, 1/16W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.67"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10 kOhms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "TNPU e3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.039" L x 0.020" W (1.00mm x 0.50mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "541-TNPU040210K0BZEP00CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±5ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±0.1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10 kOhms"; VariantName = "[No Variations]"
+Added Component: Designator=R15(RES 0402_1005)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.vishay.com/docs/28779/tnpue3.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/vishay-dale/TNPU040210K0BZEP00/10668512"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Thin Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "0402 (1005 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Anti-Sulfur, Automotive AEC-Q200, Moisture Resistant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "0.016" (0.40mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LastUpdated"; Value = "2/9/2024 8:29:39 PM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0402 (1005 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "TNPU040210K0BZEP00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "49938"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "0.063W, 1/16W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.67"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10 kOhms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "TNPU e3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.039" L x 0.020" W (1.00mm x 0.50mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "541-TNPU040210K0BZEP00CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±5ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±0.1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10 kOhms"; VariantName = "[No Variations]"
+Added Component: Designator=U6(IS-QFN-24_V)
+Add component (AddParameter): Name = "Category"; Value = "Sensors,Transducers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://datasheet.octopart.com/MPU-6050-InvenSense-datasheet-14421344.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. 3.3, 05/2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dynamic Catalog"; Value = "MPU-6000™Series"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Multifunction"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Featured Product"; Value = "MPU-60506-Axis,IntegratedI²CSolution"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "InvenSense"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.invensense.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Online Catalog"; Value = "MPU-6000™Series"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Names"; Value = "1428-1007-2
+MPU6050"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "Digital"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sensor Type"; Value = "MotionTracking"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Package"; Value = "5,000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit PriceUSD"; Value = "Digital"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC26_1 Pin=C26-1
+Added Pin To Net: NetName=NetC26_2 Pin=C26-2
+Added Pin To Net: NetName=GND Pin=C27-1
+Added Pin To Net: NetName=NetC27_2 Pin=C27-2
+Added Pin To Net: NetName=GND Pin=C28-1
+Added Pin To Net: NetName=NetC28_2 Pin=C28-2
+Added Pin To Net: NetName=GND Pin=C29-1
+Added Pin To Net: NetName=NetC26_1 Pin=C29-2
+Added Pin To Net: NetName=ON/OFF_LCD Pin=FPC1-1
+Added Pin To Net: NetName=GND Pin=FPC1-2
+Added Pin To Net: NetName=RESET_LCD Pin=FPC1-3
+Added Pin To Net: NetName=RS_LCD Pin=FPC1-4
+Added Pin To Net: NetName=DW_MOSI Pin=FPC1-5
+Added Pin To Net: NetName=DW_SPI_CLK Pin=FPC1-6
+Added Pin To Net: NetName=3v3 Pin=FPC1-7
+Added Pin To Net: NetName=CS_LCD Pin=FPC1-8
+Added Pin To Net: NetName=GND Pin=FPC1-9
+Added Pin To Net: NetName=GND Pin=FPC1-10
+Added Pin To Net: NetName=ON/OFF_LCD Pin=LCD-1
+Added Pin To Net: NetName=GND Pin=LCD-2
+Added Pin To Net: NetName=RESET_LCD Pin=LCD-3
+Added Pin To Net: NetName=RS_LCD Pin=LCD-4
+Added Pin To Net: NetName=DW_MOSI Pin=LCD-5
+Added Pin To Net: NetName=DW_SPI_CLK Pin=LCD-6
+Added Pin To Net: NetName=3v3 Pin=LCD-7
+Added Pin To Net: NetName=CS_LCD Pin=LCD-8
+Added Pin To Net: NetName=GND Pin=LCD-S2
+Added Pin To Net: NetName=MAXS_SCL Pin=R14-1
+Added Pin To Net: NetName=3v3 Pin=R14-2
+Added Pin To Net: NetName=MAXS_SDA Pin=R15-1
+Added Pin To Net: NetName=3v3 Pin=R15-2
+Added Pin To Net: NetName=GND Pin=U6-1
+Added Pin To Net: NetName=NetC28_2 Pin=U6-8
+Added Pin To Net: NetName=GND Pin=U6-9
+Added Pin To Net: NetName=NetC27_2 Pin=U6-10
+Added Pin To Net: NetName=GND Pin=U6-11
+Added Pin To Net: NetName=MPU_INT Pin=U6-12
+Added Pin To Net: NetName=3v3 Pin=U6-13
+Added Pin To Net: NetName=GND Pin=U6-18
+Added Pin To Net: NetName=NetC26_1 Pin=U6-20
+Added Pin To Net: NetName=NetC26_2 Pin=U6-22
+Added Pin To Net: NetName=MAXS_SCL Pin=U6-23
+Added Pin To Net: NetName=MAXS_SDA Pin=U6-24
+Added Pin To Net: NetName=GND Pin=U6-25
+Added Class: Name=N000-3_[0..5]
+Added Class: Name=N000-4_[0..1]
+Added Class: Name=N000-6_[0..15]
+Added Class: Name=N000-7_[0..1]
+Added Class: Name=N000-8_[0..6]
+Added Class: Name=N000-10_[0..2]
+Added Member To Class: ClassName=MPU_6050 Member=Component C26 =Value
+Added Member To Class: ClassName=MPU_6050 Member=Component C27 =Value
+Added Member To Class: ClassName=MPU_6050 Member=Component C28 =Value
+Added Member To Class: ClassName=MPU_6050 Member=Component C29 =Value
+Added Member To Class: ClassName=LCD Member=Component FPC1 AFC04-S08ECA-00
+Added Member To Class: ClassName=LCD Member=Component LCD ZJY096T-IF09
+Added Member To Class: ClassName=MPU_6050 Member=Component R14 10 kOhms
+Added Member To Class: ClassName=MPU_6050 Member=Component R15 10 kOhms
+Added Member To Class: ClassName=MPU_6050 Member=Component U6 MPU-6050

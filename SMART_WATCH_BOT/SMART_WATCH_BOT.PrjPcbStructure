@@ -1,0 +1,7 @@
+Record=TopLevelDocument|FileName=MAIN_PCB_CONNECTOR.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=MAIN_PCB_CONNECTOR.SchDoc|FileName=MAX30102.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=MAIN_PCB_CONNECTOR.SchDoc|FileName=MPU6050.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=MAIN_PCB_CONNECTOR.SchDoc|FileName=POWER.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=MAIN_PCB_CONNECTOR.SchDoc|FileName=specification.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=MAIN_PCB_CONNECTOR.SchDoc|FileName=TEMP.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=MAIN_PCB_CONNECTOR.SchDoc|FileName=UWB3000.SchDoc|SheetNumber=5

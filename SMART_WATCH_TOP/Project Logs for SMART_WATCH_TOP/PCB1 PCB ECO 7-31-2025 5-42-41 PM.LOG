@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=ON/OFF_LCD Pin=LCD-1
+Removed Pin From Net: NetName=GND Pin=LCD-2
+Removed Pin From Net: NetName=RESET_LCD Pin=LCD-3
+Removed Pin From Net: NetName=RS_LCD Pin=LCD-4
+Removed Pin From Net: NetName=DW_MOSI Pin=LCD-5
+Removed Pin From Net: NetName=DW_SPI_CLK Pin=LCD-6
+Removed Pin From Net: NetName=3v3 Pin=LCD-7
+Removed Pin From Net: NetName=CS_LCD Pin=LCD-8
+Removed Pin From Net: NetName=GND Pin=LCD-S2
+Removed Member From Class: ClassName=LCD Member=LCD

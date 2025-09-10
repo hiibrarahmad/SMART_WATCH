@@ -1,0 +1,198 @@
+Removed Pin From Net: NetName=GND Pin=U7-4
+Removed Pin From Net: NetName=GND Pin=U7-9
+Change Footprint: Footprint Not Found IC_BQ27441DRZR-G1A
+Change Component Comment : Designator=U7 Old Comment=MAX17048G+T10 New Comment=BQ27441DRZR-G1A
+Change component parameters: Designator = "U7" ("U7"); Footprint = "SON50P200X200X80-9N"; UniqueID = "\WCYHYETD" ("\WCYHYETD")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/BQ27441DRZR-G1A/Texas+Instruments/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "BQ27441DRZR-G1A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "VSON-12 Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BQ27441DRZR-G1A/Texas+Instruments/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C30(CAP 0402_1005)
+Add component (AddParameter): Name = "Applications"; Value = "Boardflex Sensitive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "0.47 µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "componentlink1description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "componentlink1url"; Value = "https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_soft_en.pdf?ref_disty=digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "componentlink2description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "componentlink2url"; Value = "https://www.digikey.com/en/products/detail/tdk-corporation/C1005X5R1V474K050BE/7907744"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "0402 (1005 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Soft Termination"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "lastupdated"; Value = "2/9/2024 8:04:38 PM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "manufacturer"; Value = "TDK Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount, MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0402 (1005 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "C1005X5R1V474K050BE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partid"; Value = "1797"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "price"; Value = "0.01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "series"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.039" L x 0.020" W (1.00mm x 0.50mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "445-175220-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness (Max)"; Value = "0.024" (0.60mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value"; Value = "0.47 µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Rated"; Value = "35V"; VariantName = "[No Variations]"
+Added Component: Designator=C31(MURATA GRM155 0402_1005)
+Add component (AddParameter): Name = "Applications"; Value = "General Purpose"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "1 µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "componentlink1description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "componentlink1url"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155C71A105KE11-01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "componentlink2description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "componentlink2url"; Value = "https://www.digikey.com/en/products/detail/murata-electronics/GRM155C71A105KE11D/6606086"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "0402 (1005 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "lastupdated"; Value = "8/27/2024 12:42:54 PM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount, MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0402 (1005 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM155C71A105KE11D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partid"; Value = "1749"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "price"; Value = "0.01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "series"; Value = "GRM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.039" L x 0.020" W (1.00mm x 0.50mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-14457-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness (Max)"; Value = "0.024" (0.60mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value"; Value = "1 µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Rated"; Value = "10V"; VariantName = "[No Variations]"
+Added Component: Designator=C32(CAP 0402_1005)
+Add component (AddParameter): Name = "Capacitance"; Value = "10 µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CL05A106MP8NUB8"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found DFN1610-2L_L1.6-W1.0-P1.10-RD
+Add Component: Footprint Not Found FP-MSL0402-MFG
+Add Component: Footprint Not Found USB-MICRO-B_V
+Added Component: Designator=R16(RES 0402_1005)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.rohm.com/datasheet/PMR18EZPFV/pmr-e"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/rohm-semiconductor/PMR01ZZPJU10L/5218668"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Metal Element"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "0402 (1005 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200, Current Sense"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "0.014" (0.35mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LastUpdated"; Value = "2/9/2024 8:30:21 PM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Rohm Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0402 (1005 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "PMR01ZZPJU10L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "3064"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "0.2W, 1/5W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.28"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10 mOhms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "PMR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.039" L x 0.020" W (1.00mm x 0.50mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "RHM1693-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "0/ +200ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10 mOhms"; VariantName = "[No Variations]"
+Added Component: Designator=R17(RES 0402_1005)
+Add component (AddParameter): Name = "Part Number"; Value = "RQ73C1E1K0BTD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1 kOhms"; VariantName = "[No Variations]"
+Added Component: Designator=R18(YAGEO RES 0402_1005)
+Add component (AddParameter): Name = "Part Number"; Value = "RT0402BRD07180RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "180 Ohms"; VariantName = "[No Variations]"
+Added Component: Designator=R19(YAGEO RES 0402_1005)
+Add component (AddParameter): Name = "Part Number"; Value = "RC0402FR-071K1L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.1 kOhms"; VariantName = "[No Variations]"
+Added Component: Designator=R20(RES 0402_1005)
+Add component (AddParameter): Name = "Part Number"; Value = "RP73PF1E100KBTD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100 kOhms"; VariantName = "[No Variations]"
+Added Component: Designator=R21(RES 0402_1005)
+Add component (AddParameter): Name = "Part Number"; Value = "RR0510P-152-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.5 kOhms"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found FP-RGT0016C-IPC_C
+Added Pin To Net: NetName=GND Pin=C30-1
+Added Pin To Net: NetName=GND Pin=C31-1
+Added Pin To Net: NetName=GND Pin=C32-1
+Add Pin To Net: Unknown Pin: Pin J2-5
+Added Pin To Net: NetName=GND Pin=R19-1
+Added Pin To Net: NetName=GND Pin=R20-1
+Added Pin To Net: NetName=GND Pin=R21-2
+Added Pin To Net: NetName=MAXS_SDA Pin=U7-1
+Added Pin To Net: NetName=MAXS_SCL Pin=U7-2
+Added Pin To Net: NetName=GND Pin=U7-3
+Add Pin To Net: Unknown Pin: Pin U7-13
+Add Pin To Net: Unknown Pin: Pin U7-14
+Add Pin To Net: Unknown Pin: Pin U7-15
+Add Pin To Net: Unknown Pin: Pin U7-16
+Add Pin To Net: Unknown Pin: Pin U7-17
+Add Pin To Net: Unknown Pin: Pin U7-18
+Add Pin To Net: Unknown Pin: Pin U7-19
+Add Pin To Net: Unknown Pin: Pin U8-8
+Add Pin To Net: Unknown Pin: Pin U8-17
+Added Pin To Net: NetName=1.8V Pin=C30-2
+Added Pin To Net: NetName=1.8V Pin=U7-5
+Added Net: Name=1.8V
+Added Pin To Net: NetName=BATTERY_IN Pin=C31-2
+Added Pin To Net: NetName=BATTERY_IN Pin=R16-1
+Added Pin To Net: NetName=BATTERY_IN Pin=U7-6
+Added Pin To Net: NetName=BATTERY_IN Pin=U7-8
+Added Net: Name=BATTERY_IN
+Added Pin To Net: NetName=CE Pin=R20-2
+Added Net: Name=CE
+Added Net: Name=D+
+Added Net: Name=D-
+Added Net: Name=EN1
+Added Net: Name=EN2
+Added Net: Name=GPIO_OUT
+Added Net: Name=ID
+Added Pin To Net: NetName=NetD2_1 Pin=R18-1
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetD2_3 Pin=R17-2
+Added Net: Name=NetD2_3
+Added Pin To Net: NetName=NetR17_1 Pin=R17-1
+Added Net: Name=NetR17_1
+Added Pin To Net: NetName=NetR18_2 Pin=R18-2
+Added Net: Name=NetR18_2
+Added Pin To Net: NetName=NetR19_2 Pin=R19-2
+Added Net: Name=NetR19_2
+Added Pin To Net: NetName=NetR21_1 Pin=R21-1
+Added Net: Name=NetR21_1
+Added Pin To Net: NetName=OUT Pin=C32-2
+Added Net: Name=OUT
+Added Net: Name=SHIELD
+Added Net: Name=TS
+Added Pin To Net: NetName=V_BAT Pin=R16-2
+Added Pin To Net: NetName=V_BAT Pin=U7-7
+Added Net: Name=V_BAT
+Added Net: Name=V_SUB
+Change Class Name : Old Net Name=Sheet1 New Net Name=button
+Added Class: Name=N000-1_[0..2]
+Added Class: Name=N000-2_[0..5]
+Added Class: Name=N000-3_[0..5]
+Added Class: Name=N000-4_[0..1]
+Added Class: Name=N000-5_[0..1]
+Added Member To Class: ClassName=PWR Member=Component C30 0.47 µF
+Added Member To Class: ClassName=PWR Member=Component C31 1 µF
+Added Member To Class: ClassName=PWR Member=Component C32 10 µF
+Add Class Member: Failed to add class member : Component D1 LTVS16H5.0T5G
+Add Class Member: Failed to add class member : Component D2 MSL0402RGBU1
+Add Class Member: Failed to add class member : Component J2 105017-0001
+Added Member To Class: ClassName=PWR Member=Component R16 10 mOhms
+Added Member To Class: ClassName=PWR Member=Component R17 1 kOhms
+Added Member To Class: ClassName=PWR Member=Component R18 180 Ohms
+Added Member To Class: ClassName=PWR Member=Component R19 1.1 kOhms
+Added Member To Class: ClassName=PWR Member=Component R20 100 kOhms
+Added Member To Class: ClassName=PWR Member=Component R21 1.5 kOhms
+Add Class Member: Failed to add class member : Component U8 BQ24075RGTT

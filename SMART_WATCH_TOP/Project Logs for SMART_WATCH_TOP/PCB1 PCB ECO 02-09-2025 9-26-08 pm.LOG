@@ -1,0 +1,37 @@
+Change Component Comment : Designator=SW1 Old Comment=SW-SMD-6P-L10.5-W10.0_C2858290 New Comment=10*10*9-6P WX
+Change component parameters: Designator = "SW1" ("SW1"); Footprint = "SW-SMD-6P-L10.5-W10.0_C2858290"; UniqueID = "\TFTIDJTU" ("\TFTIDJTU")
+Change component parameters (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20240424/64EDFF5ED40B20706A75A6A52414BAAA.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device"; Value = "10*10*9-6P WX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Name"; Value = "10*10*9-6P WX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "SHOU HAN(??)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part"; Value = "10*10*9-6P WX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Footprint"; Value = "SMD-6P,10x10mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part"; Value = "C2858290"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "10*10*9-6P WX"; VariantName = "[No Variations]"
+Added Component: Designator=U7(SON50P200X200X80-9N)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MAX17048G+T10/Analog+Devices/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MAX17048G+T10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TDFN-8 Maxim"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/MAX17048G+T10/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MAX17048G+T10/Analog+Devices/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U7-4
+Added Pin To Net: NetName=GND Pin=U7-9
+Added Pin To Net: NetName=PWR_SCL Pin=U7-7
+Added Net: Name=PWR_SCL
+Added Pin To Net: NetName=PWR_SDA Pin=U7-8
+Added Net: Name=PWR_SDA
+Added Pin To Net: NetName=VBAT Pin=U7-2
+Added Net: Name=VBAT
+Added Class: Name=PWR
+Added Class: Name=Sheet1
+Added Member To Class: ClassName=mcu Member=Component C4 =Value
+Added Member To Class: ClassName=mcu Member=Component R11 TNPW0402499RBEED
+Added Member To Class: ClassName=GPIO_Expander Member=Component R13 0402WGF1002TCE

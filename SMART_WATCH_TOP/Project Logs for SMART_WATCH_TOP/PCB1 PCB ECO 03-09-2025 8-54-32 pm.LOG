@@ -1,0 +1,38 @@
+Change Component Comment : Designator=SW1 Old Comment=SW-SMD_K1-5202UA-01 New Comment=K1-5202UA-01
+Change Component Comment : Designator=USB1 Old Comment=USB-C-SMD_TYPE-C-31-M-22 New Comment=TYPE-C-31-M-22
+Change component parameters: Designator = "SW1" ("SW1"); Footprint = "SW-SMD_K1-5202UA-01"; UniqueID = "\EWRNUFSF" ("\EWRNUFSF")
+Change component parameters (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20210810/88783A564DD08671777AA13C042542B2.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device"; Value = "K1-5202UA-01"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Name"; Value = "K1-5202UA-01"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "????"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part"; Value = "K1-5202UA-01"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Footprint"; Value = "SMD,7.5x7.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part"; Value = "C136710"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "K1-5202UA-01"; VariantName = "[No Variations]"
+Change component parameters: Designator = "USB1" ("USB1"); Footprint = "USB-C-SMD_TYPE-C-31-M-22"; UniqueID = "\FFCDHYGS" ("\FFCDHYGS")
+Change component parameters (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Connector Type"; Value = "Type-C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating-Power"; Value = "5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/TYPE-C-31-M-22/550946.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device"; Value = "TYPE-C-31-M-22"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = "Female"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Name"; Value = "Type-C ? ??"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "????"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part"; Value = "TYPE-C-31-M-22"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "Surface Mount, Right Angle"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Contacts"; Value = "16P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Ports"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-30?~+85?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Protocol Standard"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Footprint"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part"; Value = "C530612"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "TYPE-C-31-M-22"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=button Member=Component SW1 K1-5202UA-01
+Added Member To Class: ClassName=PWR Member=Component USB1 TYPE-C-31-M-22

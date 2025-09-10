@@ -1,0 +1,11 @@
+Add Component: Footprint Not Found ZJY096T-IF09
+Add Pin To Net: Unknown Pin: Pin J?-1
+Add Pin To Net: Unknown Pin: Pin J?-2
+Add Pin To Net: Unknown Pin: Pin J?-7
+Add Pin To Net: Unknown Pin: Pin J?-S2
+Added Net: Name=CS_LCD
+Added Net: Name=MOSI_LCD
+Added Net: Name=RESET
+Added Net: Name=RS\
+Added Net: Name=SCLK_LCD
+Add Class Member: Failed to add class member : Component J? ZJY096T-IF09

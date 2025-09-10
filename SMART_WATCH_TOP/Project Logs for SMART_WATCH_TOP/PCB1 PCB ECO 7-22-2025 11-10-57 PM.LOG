@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=SPICS0 Pin=B1-1
+Removed Pin From Net: NetName=SPIQ Pin=B1-2
+Removed Pin From Net: NetName=SPIWP Pin=B1-3
+Removed Pin From Net: NetName=GND Pin=B1-4
+Removed Pin From Net: NetName=SPID Pin=B1-5
+Removed Pin From Net: NetName=SPISCK Pin=B1-6
+Removed Pin From Net: NetName=SPIHD Pin=B1-7
+Removed Pin From Net: NetName=VDD_SPI Pin=B1-8
+Removed Member From Class: ClassName=mcu Member=B1
+Added Pin To Net: NetName=SPICS0 Pin=U3-1
+Added Pin To Net: NetName=SPIQ Pin=U3-2
+Added Pin To Net: NetName=SPIWP Pin=U3-3
+Added Pin To Net: NetName=GND Pin=U3-4
+Added Pin To Net: NetName=SPID Pin=U3-5
+Added Pin To Net: NetName=SPISCK Pin=U3-6
+Added Pin To Net: NetName=SPIHD Pin=U3-7
+Added Pin To Net: NetName=VDD_SPI Pin=U3-8

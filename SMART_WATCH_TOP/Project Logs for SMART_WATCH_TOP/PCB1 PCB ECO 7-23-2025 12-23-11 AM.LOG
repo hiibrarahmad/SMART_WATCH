@@ -1,0 +1,11 @@
+Added Component: Designator=SB1(Jumper)
+Added Component: Designator=SB2(Jumper)
+Added Component: Designator=SB3(Jumper)
+Added Pin To Net: NetName=NetR4_2 Pin=SB1-2
+Added Pin To Net: NetName=NetR5_2 Pin=SB2-2
+Added Pin To Net: NetName=NetR6_2 Pin=SB3-2
+Add Net: Net with name "3v3" already exists
+Add Net: Net with name "3v3" already exists
+Added Member To Class: ClassName=GPIO_Expander Member=Component SB1 Jumper
+Added Member To Class: ClassName=GPIO_Expander Member=Component SB2 Jumper
+Added Member To Class: ClassName=GPIO_Expander Member=Component SB3 Jumper

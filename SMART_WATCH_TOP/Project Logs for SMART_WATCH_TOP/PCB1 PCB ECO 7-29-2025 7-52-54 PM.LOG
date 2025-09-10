@@ -1,0 +1,39 @@
+Change Component Designator: OldDesignator=P? NewDesignator=P6
+Add Component: Footprint Not Found CAP 0402_1005
+Add Component: Footprint Not Found CAP 0402_1005
+Add Component: Footprint Not Found CAP 0402_1005
+Add Component: Footprint Not Found CAP 0402_1005
+Add Component: Footprint Not Found RES 0402_1005
+Add Component: Footprint Not Found RES 0402_1005
+Added Component: Designator=U6(IS-QFN-24_V)
+Add Pin To Net: Unknown Pin: Pin C27-1
+Add Pin To Net: Unknown Pin: Pin C28-1
+Add Pin To Net: Unknown Pin: Pin C29-1
+Add Pin To Net: Unknown Pin: Pin R14-1
+Add Pin To Net: Unknown Pin: Pin R14-2
+Add Pin To Net: Unknown Pin: Pin R15-1
+Add Pin To Net: Unknown Pin: Pin R15-2
+Add Pin To Net: Unknown Pin: Pin U6-1
+Add Pin To Net: Unknown Pin: Pin U6-9
+Add Pin To Net: Unknown Pin: Pin U6-11
+Add Pin To Net: Unknown Pin: Pin U6-13
+Add Pin To Net: Unknown Pin: Pin U6-18
+Add Pin To Net: Unknown Pin: Pin U6-23
+Add Pin To Net: Unknown Pin: Pin U6-24
+Add Pin To Net: Unknown Pin: Pin U6-25
+Added Pin To Net: NetName=MPU_INT Pin=U2-24
+Added Net: Name=MPU_INT
+Added Net: Name=NetC26_1
+Added Net: Name=NetC26_2
+Added Net: Name=NetC27_2
+Added Net: Name=NetC28_2
+Added Class: Name=MPU_6050
+Added Class: Name=N000-1_[0..2]
+Added Class: Name=N000-2_[0..5]
+Added Class: Name=N000-3_[0..2]
+Added Class: Name=N000-4_[0..15]
+Added Class: Name=N000-6_[0..6]
+Added Class: Name=N000-9_[0..5]
+Added Class: Name=N000-10_[0..1]
+Added Member To Class: ClassName=mcu Member=Component C19 =Value
+Added Member To Class: ClassName=mcu Member=Component SB4 Jumper

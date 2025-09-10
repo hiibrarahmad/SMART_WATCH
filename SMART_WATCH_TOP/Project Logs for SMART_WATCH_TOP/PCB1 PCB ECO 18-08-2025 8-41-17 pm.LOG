@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=NetC7_2 Pin=R10-1
+Removed Member From Class: ClassName=mcu Member=R10
+Added Component: Designator=R?(RESC1005X40X25LL05T10)
+Add component (AddParameter): Name = "JLCPCB Part #"; Value = "C60485"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR.Part #"; Value = "RC0402JR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0402JR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "resistance"; Value = "0 ohm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC7_2 Pin=R?-1
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=U1-54
+Added Net: Name=NetR?_2
+Added Member To Class: ClassName=mcu Member=Component R2 0402WGF1002TCE
+Added Member To Class: ClassName=mcu Member=Component R3 0402WGF1002TCE
+Added Member To Class: ClassName=GPIO_Expander Member=Component R4 0402WGF1002TCE
+Added Member To Class: ClassName=GPIO_Expander Member=Component R5 0402WGF1002TCE
+Added Member To Class: ClassName=GPIO_Expander Member=Component R6 0402WGF1002TCE
+Added Member To Class: ClassName=GPIO_Expander Member=Component R7 0402WGF1002TCE
+Added Member To Class: ClassName=GPIO_Expander Member=Component R8 0402WGF1002TCE
+Added Member To Class: ClassName=GPIO_Expander Member=Component R9 0402WGF1002TCE
+Added Member To Class: ClassName=GPIO_Expander Member=Component R12 0402WGF1002TCE
+Added Member To Class: ClassName=GPIO_Expander Member=Component R13 0402WGF1002TCE
+Added Member To Class: ClassName=MPU_6050 Member=Component R14 0402WGF1002TCE
+Added Member To Class: ClassName=MPU_6050 Member=Component R15 0402WGF1002TCE
+Added Member To Class: ClassName=mcu Member=Component R? RC0402JR-070RL
+Added Member To Class: ClassName=NRF24L01 Member=Component X2 16MHz

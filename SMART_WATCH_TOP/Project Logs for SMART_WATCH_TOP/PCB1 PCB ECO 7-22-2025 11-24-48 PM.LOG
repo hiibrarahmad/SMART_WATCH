@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=NetC14_1 Pin=Y2-1
+Removed Pin From Net: NetName=NetC13_1 Pin=Y2-2
+Removed Member From Class: ClassName=NRF24L01 Member=Y2
+Change Component Comment : Designator=X2 Old Comment=CRYSTAL-SMD_4P-L3.2-W2.5-BL New Comment=16MHz
+Change component parameters: Designator = "X2" ("X2"); Footprint = "CRYSTAL-SMD_4P-L3.2-W2.5-BL"; UniqueID = "\PKEPVSFD" ("\PKEPVSFD")
+Change component parameters (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20180906/C276421_0DB5B9EE345225C827799AFD2B19ACDB.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device"; Value = "ABM8G-16.000MHZ-18-D2Y-T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Equivalent Series Resistance (ESR)"; Value = "80O"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "External load capacitor"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Frequency Stability(Full temperature range)"; Value = "±30ppm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Name"; Value = "16MHz ±20ppm 18pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "ABRACON"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part"; Value = "ABM8G-16.000MHZ-18-D2Y-T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Normal temperature Frequency Tolerance"; Value = "±20ppm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Footprint"; Value = "SMD3225-4P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part"; Value = "C1985423"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "ABM8G-16.000MHZ-18-D2Y-T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "16MHz"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC13_1 Pin=X2-1
+Added Pin To Net: NetName=GND Pin=X2-2
+Added Pin To Net: NetName=NetC14_1 Pin=X2-3
+Added Pin To Net: NetName=GND Pin=X2-4
+Add Net: Net with name "3V3" already exists
+Added Member To Class: ClassName=NRF24L01 Member=Component X2 16MHz

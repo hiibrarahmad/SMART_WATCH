@@ -1,0 +1,43 @@
+Change Component Comment : Designator=D2 Old Comment=DFN1610-2L_L1.6-W1.0-P1.10-RD New Comment=LTVS16H5.0T5G
+Change component parameters: Designator = "D2" ("D2"); Footprint = "DFN1610-2L_L1.6-W1.0-P1.10-RD"; UniqueID = "\VDTRZVXW" ("\VDTRZVXW")
+Change component parameters (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Breakdown Voltage"; Value = "6V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20180130/C172440_15172974410791323469.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device"; Value = "LTVS16H5.0T5G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Name"; Value = "??TVS 5V?? 100A????"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "LRC(?????)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part"; Value = "LTVS16H5.0T5G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum Clamping Voltage"; Value = "8.5V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Peak Pulse Current (Ipp)"; Value = "100A@8/20us"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reverse Stand-Off Voltage (Vrwm)"; Value = "5V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Footprint"; Value = "DFN1610-2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part"; Value = "C172440"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "LTVS16H5.0T5G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "TVS"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found SOT95P280X145-5N
+Add Component: Footprint Not Found QFN50P400X400X95-24N
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-5
+Add Pin To Net: Unknown Pin: Pin U5-18
+Add Pin To Net: Unknown Pin: Pin U5-23
+Add Pin To Net: Unknown Pin: Pin U5-24
+Add Net: Net with name "3v3" already exists
+Add Net: Net with name "3v3" already exists
+Add Net: Net with name "3v3" already exists
+Add Net: Net with name "3v3" already exists
+Add Net: Net with name "DW_EXTON" already exists
+Add Net: Net with name "DW_MOSI" already exists
+Add Net: Net with name "DW_RST" already exists
+Add Net: Net with name "DW_SPI_CLK" already exists
+Add Net: Net with name "DW_SPI_CS" already exists
+Add Net: Net with name "DW_WAKEUP" already exists
+Add Net: Net with name "GND" already exists
+Add Net: Net with name "MAXS_SCL" already exists
+Add Net: Net with name "MAXS_SDA" already exists
+Add Net: Net with name "TEMP" already exists
+Add Class Member: Failed to add class member : Component U1 TPS70950DBVR
+Add Class Member: Failed to add class member : Component U5 MPU-6050

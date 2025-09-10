@@ -1,0 +1,27 @@
+Added Pin To Net: NetName=GND Pin=BUZZER1-2
+Added Pin To Net: NetName=GND Pin=SW1-5
+Added Pin To Net: NetName=BUT_CENTER Pin=SW1-2
+Added Pin To Net: NetName=BUT_CENTER Pin=U2-1
+Added Net: Name=BUT_CENTER
+Added Pin To Net: NetName=BUT_DOWN Pin=SW1-4
+Added Pin To Net: NetName=BUT_DOWN Pin=U2-26
+Added Net: Name=BUT_DOWN
+Added Pin To Net: NetName=BUT_LEFT Pin=SW1-1
+Added Pin To Net: NetName=BUT_LEFT Pin=U2-27
+Added Net: Name=BUT_LEFT
+Added Pin To Net: NetName=BUT_RIGHT Pin=SW1-6
+Added Pin To Net: NetName=BUT_RIGHT Pin=U2-28
+Added Net: Name=BUT_RIGHT
+Added Pin To Net: NetName=BUT_UP Pin=SW1-3
+Added Pin To Net: NetName=BUT_UP Pin=U2-25
+Added Net: Name=BUT_UP
+Added Pin To Net: NetName=buzzer Pin=BUZZER1-1
+Added Pin To Net: NetName=buzzer Pin=U1-14
+Added Net: Name=buzzer
+Added Class: Name=N000-4_[0..2]
+Added Class: Name=N000-5_[0..5]
+Added Class: Name=N000-6_[0..1]
+Added Class: Name=N000-8_[0..1]
+Added Class: Name=N000-9_[0..6]
+Added Class: Name=N000-11_[0..2]
+Added Class: Name=N000-12_[0..15]

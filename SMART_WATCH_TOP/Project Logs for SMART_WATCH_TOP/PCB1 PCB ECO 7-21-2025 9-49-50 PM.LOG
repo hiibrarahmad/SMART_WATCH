@@ -1,0 +1,37 @@
+Removed Member From Class: ClassName=mcu Member=L2
+Added Component: Designator=ANT1(FP-2450AT18D0100E-MFG)
+Add component (AddParameter): Name = "Bandwidth"; Value = "100MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = "2.45GHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gain"; Value = "-1dB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.047inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "50R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "3.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "2W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Bands"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "3000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "2W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Return Loss"; Value = "-10dB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.6mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=ANT1-2
+Added Pin To Net: NetName=GND Pin=ANT1-3
+Added Pin To Net: NetName=GND Pin=ANT1-4
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=NetANT1_1 Pin=ANT1-1
+Added Pin To Net: NetName=NetANT1_1 Pin=C5-1
+Added Pin To Net: NetName=NetANT1_1 Pin=L1-2
+Added Net: Name=NetANT1_1
+Added Pin To Net: NetName=NetC6_1 Pin=C6-1
+Added Pin To Net: NetName=NetC6_1 Pin=L1-1
+Added Pin To Net: NetName=NetC6_1 Pin=U1-4
+Added Net: Name=NetC6_1
+Added Member To Class: ClassName=mcu Member=Component ANT1 2450AT18D0100E
+Added Member To Class: ClassName=mcu Member=Component C5 15 pF
+Added Member To Class: ClassName=mcu Member=Component C6 15 pF

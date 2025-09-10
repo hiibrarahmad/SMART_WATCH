@@ -1,0 +1,15 @@
+Added Pin To Net: NetName=GND Pin=USB1-1
+Added Pin To Net: NetName=V_SUB Pin=USB1-2
+Added Pin To Net: NetName=V_SUB Pin=USB1-11
+Added Pin To Net: NetName=GND Pin=USB1-12
+Added Pin To Net: NetName=NetR22_1 Pin=R22-1
+Added Pin To Net: NetName=NetR22_1 Pin=USB1-4
+Added Net: Name=NetR22_1
+Added Pin To Net: NetName=NetR23_1 Pin=R23-1
+Added Pin To Net: NetName=NetR23_1 Pin=USB1-10
+Added Net: Name=NetR23_1
+Added Pin To Net: NetName=SHIELD Pin=USB1-13
+Added Pin To Net: NetName=SHIELD Pin=USB1-14
+Added Pin To Net: NetName=SHIELD Pin=USB1-15
+Added Pin To Net: NetName=SHIELD Pin=USB1-16
+Added Net: Name=SHIELD

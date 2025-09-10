@@ -1,0 +1,13 @@
+Removed Member From Class: ClassName=GPIO_Expander Member=MD?
+Added Component: Designator=J1(HRS_FH35C-13S-0.3SHW(50))
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "FH35C-13S-0.3SHW(50)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Net: Net with name "3v3" already exists
+Add Net: Net with name "3v3" already exists
+Added Class: Name=TOP_TO_BOTTOM_CONT
+Added Class: Name=N000-1_[0..5]
+Added Class: Name=N000-2_[0..2]

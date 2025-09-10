@@ -1,0 +1,12 @@
+Added Component: Designator=P1(PCBComponent_1)
+Added Component: Designator=P2(PCBComponent_1)
+Added Component: Designator=P3(PCBComponent_1)
+Added Component: Designator=P4(PCBComponent_1)
+Added Pin To Net: NetName=U0RXD Pin=P1-1
+Added Pin To Net: NetName=U0TXD Pin=P2-1
+Added Pin To Net: NetName=USB_DN Pin=P3-1
+Added Pin To Net: NetName=USB_DP Pin=P4-1
+Added Member To Class: ClassName=mcu Member=Component P1 PAD
+Added Member To Class: ClassName=mcu Member=Component P2 PAD
+Added Member To Class: ClassName=mcu Member=Component P3 PAD
+Added Member To Class: ClassName=mcu Member=Component P4 PAD

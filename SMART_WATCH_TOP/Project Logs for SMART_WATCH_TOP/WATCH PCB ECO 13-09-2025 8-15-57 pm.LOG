@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=GND Pin=SB7-1
+Added Pin To Net: NetName=buzzer Pin=SB7-2
+Added Pin To Net: NetName=GND Pin=SB8-1
+Added Pin To Net: NetName=buzzer Pin=SB8-2
+Added Member To Class: ClassName=buzzer Member=Component SB7 Jumper
+Added Member To Class: ClassName=buzzer Member=Component SB8 Jumper

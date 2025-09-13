@@ -1,0 +1,12 @@
+Added Pin To Net: NetName=3v3MCU Pin=C1-2
+Added Pin To Net: NetName=3v3MCU Pin=C2-2
+Added Pin To Net: NetName=3v3MCU Pin=FPC1-7
+Added Class: Name=N000-1_[0..5]
+Added Class: Name=N000-2_[0..2]
+Added Class: Name=N000-5_[0..2]
+Added Class: Name=N000-6_[0..1]
+Added Class: Name=N000-7_[0..1]
+Added Class: Name=N000-9_[0..2]
+Added Class: Name=N000-10_[0..15]
+Added Class: Name=N000-11_[0..5]
+Added Class: Name=N000-12_[0..6]

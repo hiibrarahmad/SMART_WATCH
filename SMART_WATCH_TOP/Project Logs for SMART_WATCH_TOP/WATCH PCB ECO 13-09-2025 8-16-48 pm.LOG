@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=buzzer Pin=BUZZER1-1
+Removed Pin From Net: NetName=buzzer Pin=SB8-2
+Added Pin To Net: NetName=Buzzerpcb Pin=BUZZER1-1
+Added Pin To Net: NetName=Buzzerpcb Pin=SB8-2
+Added Net: Name=Buzzerpcb

@@ -1,0 +1,16 @@
+Add Component: Footprint Not Found SOT95P280X145-5N
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-5
+Add Net: Net with name "3v3" already exists
+Add Net: Net with name "3v3" already exists
+Add Net: Net with name "3v3" already exists
+Add Net: Net with name "DW_EXTON" already exists
+Add Net: Net with name "DW_MOSI" already exists
+Add Net: Net with name "DW_RST" already exists
+Add Net: Net with name "DW_SPI_CLK" already exists
+Add Net: Net with name "DW_SPI_CS" already exists
+Add Net: Net with name "DW_WAKEUP" already exists
+Add Net: Net with name "GND" already exists
+Add Net: Net with name "TEMP" already exists
+Add Class Member: Failed to add class member : Component U1 TPS70950DBVR

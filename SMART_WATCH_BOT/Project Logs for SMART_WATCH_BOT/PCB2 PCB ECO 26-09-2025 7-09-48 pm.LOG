@@ -1,0 +1,18 @@
+Add Component: Footprint Not Found SOT95P280X145-5N
+Added Pin To Net: NetName=3v3 Pin=C6-2
+Added Pin To Net: NetName=3v3 Pin=C7-2
+Added Pin To Net: NetName=3v3 Pin=FPC1-1
+Added Pin To Net: NetName=GND Pin=FPC1-2
+Added Pin To Net: NetName=DW_EXTON Pin=FPC1-5
+Added Pin To Net: NetName=TEMP Pin=FPC1-9
+Added Pin To Net: NetName=DW_RST Pin=FPC1-11
+Added Pin To Net: NetName=DW_SPI_CS Pin=MD?-17
+Added Pin To Net: NetName=DW_MOSI Pin=MD?-18
+Added Pin To Net: NetName=DW_SPI_CLK Pin=MD?-20
+Added Pin To Net: NetName=DW_WAKEUP Pin=R9-2
+Added Pin To Net: NetName=3v3 Pin=R13-1
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-5
+Added Pin To Net: NetName=3v3 Pin=U6-3
+Add Class Member: Failed to add class member : Component U1 TPS70950DBVR

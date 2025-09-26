@@ -1,0 +1,10 @@
+Change Component Designator: OldDesignator=MD? NewDesignator=MD1
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Change Component Designator: OldDesignator=U? NewDesignator=U2
+Change Net Name : Old Net Name=NetMD?_1 New Net Name=NetMD1_1
+Change Net Name : Old Net Name=NetMD?_2 New Net Name=NetMD1_2
+Change Net Name : Old Net Name=NetMD?_3 New Net Name=NetMD1_3
+Change Net Name : Old Net Name=NetMD?_22 New Net Name=NetMD1_22
+Added Class: Name=N000-1_[0..1]
+Added Class: Name=N000-3_[0..2]
+Added Member To Class: ClassName=MAX30102 Member=Component U1 MAX30102EFD+T

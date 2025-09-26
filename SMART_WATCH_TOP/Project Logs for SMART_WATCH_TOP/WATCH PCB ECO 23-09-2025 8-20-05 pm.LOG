@@ -1,0 +1,12 @@
+Added Pin To Net: NetName=V_SUB Pin=SB9-1
+Added Pin To Net: NetName=GND Pin=SB9-2
+Added Class: Name=N000-1_[0..2]
+Added Class: Name=N000-2_[0..1]
+Added Class: Name=N000-3_[0..2]
+Added Class: Name=N000-4_[0..2]
+Added Class: Name=N000-5_[0..15]
+Added Class: Name=N000-6_[0..5]
+Added Class: Name=N000-9_[0..5]
+Added Class: Name=N000-10_[0..1]
+Added Member To Class: ClassName=TOP_TO_BOTTOM_CONT Member=Component FPC2 FH12-12S-0.5SH(55)
+Added Member To Class: ClassName=PWR Member=Component SB9 Jumper

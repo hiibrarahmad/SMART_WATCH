@@ -44,6 +44,7 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
+CurrentVariant=SW_V1.0
 
 [Preferences]
 PrefsVaultGUID=
@@ -338,6 +339,46 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document18]
+DocumentPath=WATCH.PCBDwf
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=TQDVWYQA
+
+[ProjectVariant1]
+UniqueID=66D67E0C-F7DA-41FC-87F4-C36C4D23F635
+Description=SW_V1.0
+AllowFabrication=0
+ParameterCount=0
+VariationCount=15
+Variation1=Designator=P1|UniqueId=\DHBKBXPE|Kind=1|AlternatePart= 
+Variation2=Designator=P5|UniqueId=\ZUCTDGZZ|Kind=1|AlternatePart= 
+Variation3=Designator=P4|UniqueId=\HJCILCVN|Kind=1|AlternatePart= 
+Variation4=Designator=P2|UniqueId=\ZKBPJTKU|Kind=1|AlternatePart= 
+Variation5=Designator=P6|UniqueId=\EUEHUGLL|Kind=1|AlternatePart= 
+Variation6=Designator=P3|UniqueId=\SWARBZSR|Kind=1|AlternatePart= 
+Variation7=Designator=SB9|UniqueId=\LTKLWKVI|Kind=1|AlternatePart= 
+Variation8=Designator=SB8|UniqueId=\LTGCUGGV|Kind=1|AlternatePart= 
+Variation9=Designator=SB7|UniqueId=\OCKQVNDV|Kind=1|AlternatePart= 
+Variation10=Designator=SB6|UniqueId=\XKKGKLUF|Kind=1|AlternatePart= 
+Variation11=Designator=SB5|UniqueId=\ULXINGVK|Kind=1|AlternatePart= 
+Variation12=Designator=SB4|UniqueId=\DECSWKVB|Kind=1|AlternatePart= 
+Variation13=Designator=SB1|UniqueId=\EFRPNKLH|Kind=1|AlternatePart= 
+Variation14=Designator=SB3|UniqueId=\VUTFOIEA|Kind=1|AlternatePart= 
+Variation15=Designator=SB2|UniqueId=\YCEUMBDZ|Kind=1|AlternatePart= 
+ParamVariationCount=0
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for SMART_WATCH_TOP\Design Rule Check - PCB1.html
 DItemRevisionGUID=
@@ -605,6 +646,8 @@ OutputDocumentPath14=
 OutputVariantName14=
 OutputDefault14=0
 PageOptions14=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration14_Name1=OutputConfigurationParameter1
+Configuration14_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ShowOpenEnds=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0|DocumentPath=E:\Zonova PROJECT\SMART_WATCH\SMART_WATCH\SMART_WATCH_TOP\mcu.SchDoc
 OutputType15=SimView Print
 OutputName15=SimView Prints
 OutputDocumentPath15=
@@ -717,6 +760,20 @@ OutputDocumentPath1=
 OutputVariantName1=[No Variations]
 OutputDefault1=0
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+Configuration1_Name1=ColumnNameFormat
+Configuration1_Item1=CaptionAsName
+Configuration1_Name2=ForceUpdateSettings
+Configuration1_Item2=False
+Configuration1_Name3=General
+Configuration1_Item3=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1200|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|UseDirectApi=False|BomSetName=
+Configuration1_Name4=GroupOrder
+Configuration1_Item4=Comment=True|Footprint=True
+Configuration1_Name5=SortOrder
+Configuration1_Item5=Designator=Up
+Configuration1_Name6=VisibleOrder
+Configuration1_Item6=Designator=120|Quantity=120|JLCPCB Part #=100|Manufacturer=100|MFR.Part #=100
+Configuration1_Name7=VisibleOrder_Flat
+Configuration1_Item7=Designator=120|Quantity=120|JLCPCB Part #=100|Manufacturer=100|MFR.Part #=100
 OutputType2=BOM_ReportCompare
 OutputName2=BOM Compare
 OutputDocumentPath2=

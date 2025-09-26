@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=MAXS_SCL Pin=U2-2
+Removed Pin From Net: NetName=MAXS_SDA Pin=U2-3
+Removed Pin From Net: NetName=GND Pin=U2-4
+Removed Pin From Net: NetName=3v3 Pin=U2-9
+Removed Pin From Net: NetName=3v3 Pin=U2-10
+Removed Pin From Net: NetName=1V8 Pin=U2-11
+Removed Pin From Net: NetName=GND Pin=U2-12
+Removed Member From Class: ClassName=MAX30102 Member=U2
+Add Component: Footprint Not Found SOT95P280X145-5N
+Added Component: Designator=U?(XDCR_MAX30101EFD+)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MAX30102EFD+T/Maxim+Integrated/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "MAX30102EFD+TTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Maxim Integrated Products"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MAX30102EFD+T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/MAX30102EFD+T/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MAX30102EFD+T/Maxim+Integrated/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-5
+Added Pin To Net: NetName=MAXS_SCL Pin=U?-2
+Added Pin To Net: NetName=MAXS_SDA Pin=U?-3
+Added Pin To Net: NetName=3v3 Pin=U?-9
+Added Pin To Net: NetName=3v3 Pin=U?-10
+Added Pin To Net: NetName=1V8 Pin=U?-11
+Add Net: Net with name "3v3" already exists
+Add Net: Net with name "3v3" already exists
+Add Net: Net with name "3v3" already exists
+Add Net: Net with name "DW_EXTON" already exists
+Add Net: Net with name "DW_MOSI" already exists
+Add Net: Net with name "DW_RST" already exists
+Add Net: Net with name "DW_SPI_CLK" already exists
+Add Net: Net with name "DW_SPI_CS" already exists
+Add Net: Net with name "DW_WAKEUP" already exists
+Add Net: Net with name "GND" already exists
+Add Net: Net with name "TEMP" already exists
+Add Class Member: Failed to add class member : Component U1 TPS70950DBVR
+Added Member To Class: ClassName=MAX30102 Member=Component U? MAX30102EFD+T

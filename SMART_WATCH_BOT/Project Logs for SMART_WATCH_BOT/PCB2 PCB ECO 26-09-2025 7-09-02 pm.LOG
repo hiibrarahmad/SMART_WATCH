@@ -1,0 +1,51 @@
+Removed Pin From Net: NetName=NetC6_1 Pin=MD1-5
+Removed Pin From Net: NetName=NetC6_1 Pin=MD1-6
+Removed Pin From Net: NetName=NetC6_1 Pin=MD1-7
+Removed Pin From Net: NetName=GND Pin=MD1-8
+Removed Pin From Net: NetName=GND Pin=MD1-16
+Removed Pin From Net: NetName=DW_SPI_CS Pin=MD1-17
+Removed Pin From Net: NetName=DW_MISO Pin=MD1-19
+Removed Pin From Net: NetName=GND Pin=MD1-21
+Removed Pin From Net: NetName=GND Pin=MD1-23
+Removed Pin From Net: NetName=GND Pin=MD1-24
+Removed Member From Class: ClassName=UWB3000 Member=MD1
+Added Component: Designator=MD?(FP-DWM3000TR13-MFG)
+Add Component: Footprint Not Found SOT95P280X145-5N
+Added Pin To Net: NetName=DW_SPI_CS Pin=FPC1-8
+Added Pin To Net: NetName=NetC6_1 Pin=MD?-5
+Added Pin To Net: NetName=NetC6_1 Pin=MD?-6
+Added Pin To Net: NetName=NetC6_1 Pin=MD?-7
+Added Pin To Net: NetName=GND Pin=MD?-8
+Added Pin To Net: NetName=GND Pin=MD?-16
+Added Pin To Net: NetName=DW_MISO Pin=MD?-19
+Added Pin To Net: NetName=GND Pin=MD?-21
+Added Pin To Net: NetName=GND Pin=MD?-23
+Added Pin To Net: NetName=GND Pin=MD?-24
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-5
+Add Net: Net with name "3v3" already exists
+Add Net: Net with name "3v3" already exists
+Add Net: Net with name "3v3" already exists
+Add Net: Net with name "DW_EXTON" already exists
+Add Net: Net with name "DW_MOSI" already exists
+Add Net: Net with name "DW_RST" already exists
+Add Net: Net with name "DW_SPI_CLK" already exists
+Add Net: Net with name "DW_SPI_CS" already exists
+Add Net: Net with name "DW_WAKEUP" already exists
+Add Net: Net with name "GND" already exists
+Added Pin To Net: NetName=NetMD?_1 Pin=MD?-1
+Added Pin To Net: NetName=NetMD?_1 Pin=R7-1
+Added Net: Name=NetMD?_1
+Added Pin To Net: NetName=NetMD?_2 Pin=MD?-2
+Added Pin To Net: NetName=NetMD?_2 Pin=R9-1
+Added Net: Name=NetMD?_2
+Added Pin To Net: NetName=NetMD?_3 Pin=MD?-3
+Added Pin To Net: NetName=NetMD?_3 Pin=R8-1
+Added Net: Name=NetMD?_3
+Added Pin To Net: NetName=NetMD?_22 Pin=MD?-22
+Added Pin To Net: NetName=NetMD?_22 Pin=R10-2
+Added Net: Name=NetMD?_22
+Add Net: Net with name "TEMP" already exists
+Added Member To Class: ClassName=UWB3000 Member=Component MD? DWM3000TR13
+Add Class Member: Failed to add class member : Component U1 TPS70950DBVR
